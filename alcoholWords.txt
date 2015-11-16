@@ -1,0 +1,267 @@
+alcoholic drink
+proof spirit
+home brew
+hooch
+pruno
+kava
+aperitif
+brew
+beer
+draft beer
+suds
+lager
+Munich beer
+bock
+light beer
+Oktoberfest
+Pilsner
+malt
+ale
+Weissbier
+Weizenbier
+Weizenbock
+bitter
+Burton
+pale ale
+porter
+stout
+Guinness
+kvass
+mead
+metheglin
+cassiri
+spruce beer
+sake
+nipa
+wine
+vintage
+red wine
+Beaujolais
+Medoc
+Pinot noir
+claret
+Saint Emilion
+Chianti
+Cabernet
+Merlot
+Rioja
+zinfandel
+white wine
+Canary wine
+Chablis
+Montrachet
+Chardonnay
+Pinot blanc
+Sauvignon blanc
+Moselle
+Muscadet
+Rhine wine
+Riesling
+liebfraumilch
+sack
+Soave
+Sauterne
+Chenin blanc
+Verdicchio
+Vouvray
+Yquem
+blush wine
+altar wine
+sparkling wine
+champagne
+cold duck
+Burgundy
+Beaujolais
+Chablis
+Montrachet
+Bordeaux
+Medoc
+claret
+Saint Emilion
+California wine
+Cotes de Provence
+dessert wine
+straw wine
+Dubonnet
+jug wine
+macon
+plonk
+retsina
+Rhone wine
+table wine
+vin ordinaire
+Tokay
+vermouth
+sweet vermouth
+dry vermouth
+generic
+varietal
+fortified wine
+Madeira
+malmsey
+port
+sherry
+Manzanilla
+Amontillado
+Marsala
+muscat
+mulled wine
+bishop
+negus
+liquor
+aqua vitae
+aquavit
+arrack
+bitters
+brandy
+eau de vie
+applejack
+Calvados
+Armagnac
+Cognac
+grappa
+kirsch
+marc
+slivovitz
+gin
+bathtub gin
+sloe gin
+geneva
+ouzo
+rum
+grog
+demerara
+Jamaica rum
+schnapps
+mescal
+tequila
+vodka
+whiskey
+blended whiskey
+bourbon
+corn whiskey
+moonshine
+Irish
+poteen
+rye
+Scotch
+Drambuie
+sour mash
+firewater
+lacing
+neutral spirits
+pulque
+liqueur
+absinth
+amaretto
+anisette
+benedictine
+Chartreuse
+coffee liqueur
+Kahlua
+creme de cacao
+creme de menthe
+creme de fraise
+Drambuie
+Galliano
+orange liqueur
+curacao
+triple sec
+Grand Marnier
+kummel
+maraschino
+pastis
+Pernod
+pousse-cafe
+ratafia
+sambuca
+mixed drink
+cocktail
+Bloody Mary
+Virgin Mary
+bullshot
+daiquiri
+strawberry daiquiri
+NADA daiquiri
+gimlet
+grasshopper
+Harvey Wallbanger
+manhattan
+Rob Roy
+margarita
+martini
+vodka martini
+gin and it
+old fashioned
+pink lady
+Sazerac
+screwdriver
+sidecar
+sour
+whiskey sour
+stinger
+planter's punch
+White Russian
+Dom Pedro
+highball
+cobbler
+collins
+gin and tonic
+julep
+Scotch and soda
+sling
+brandy sling
+gin sling
+rum sling
+zombie
+spritzer
+flip
+swizzle
+hot toddy
+Tom and Jerry
+mimosa
+pina colada
+punch
+fruit punch
+milk punch
+cup
+champagne cup
+claret cup
+wassail
+fish house punch
+May wine
+eggnog
+glogg
+rickey
+gin rickey
+hard cider
+perry
+rotgut
+slug
+koumiss
+alcoholic
+alky
+dipsomaniac
+boozer
+lush
+soaker
+souse
+intoxicated
+bacchanalian
+beery
+besotted
+potty
+bibulous
+doped
+half-seas-over
+high
+hopped-up
+hit the bottle
+tank
+port
+claret
+pub-crawl
+tipple
+souse
+wine
+carry
